@@ -5,9 +5,11 @@ public class Tutor {
 
         Scanner inputUser = new Scanner(System.in);
 
+        // meminta input dari user
         System.out.print("Ketik NAMAMU!!! : ");
         String input = inputUser.next();
 
+        // menampilkan hasil
         System.out.println("halo " + input);
 
     }
