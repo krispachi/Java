@@ -1,0 +1,10 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+faqihza_2019_1,2019,faqihza,gramedia,belajar C++
+faqihza_2019_2,2019,faqihza,gramedia,belajar python
+faqihza_2019_3,2019,faqihza,gramedia,belajar Java
+Andine_2022_1,2022,Andine,grahambell,elektrodinamika
+Salmon_2837_1,2837,Salmon,Poseidon,The Sea
+Eigo_500_1,500,Eigo,Skyzier,Swamp Plains
+Salmon_2837_2,2837,Salmon,Black Jack,Lagoon

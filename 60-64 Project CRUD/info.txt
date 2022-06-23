@@ -1,0 +1,9 @@
+Dari video belajar java dasar (60-64) di Channel YouTube Kelas Terbuka, Aku buat saat data buku dihapus, datanya tidak langsung hilang, tapi disimpan dulu di file cacheDB.txt
+
+Aku menambahkan 3 pilihan lagi yaitu:
+1. Lihat data buku yang dihapus
+2. Hapus data buku yang dihapus (hapus permanen)
+3. Pulihkan data buku yang dihapus ke database (kekurangan = setelah dipulihkan, data di cacheDB masih ada. Jika dipulihkan 2x kemungkinan data di database.txt ada yang ganda)
+
+Eee... :)
+Oh, aku buatnya pakai HP
