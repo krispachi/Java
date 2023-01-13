@@ -1,3 +1,5 @@
+package com.latihan;
+
 import java.util.Scanner;
 
 public class Biodata {
